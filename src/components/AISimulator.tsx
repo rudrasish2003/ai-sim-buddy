@@ -31,14 +31,7 @@ export const AISimulator = () => {
             <img 
               src="/lovable-uploads/38e8d9e4-63c9-4611-bc57-95514668c4d9.png" 
               alt="Bajaj Finserv Logo" 
-              className="h-12 w-auto mb-4"
-            />
-          </div>
-          <div className="flex justify-center mb-6">
-            <img 
-              src={heroImage} 
-              alt="AI Customer Simulator" 
-              className="w-32 h-24 object-contain"
+              className="h-16 w-auto"
             />
           </div>
           <h1 className="text-4xl font-bold text-foreground mb-4">
