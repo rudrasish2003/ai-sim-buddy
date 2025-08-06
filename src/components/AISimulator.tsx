@@ -31,7 +31,7 @@ export const AISimulator = () => {
             <img 
               src="/lovable-uploads/38e8d9e4-63c9-4611-bc57-95514668c4d9.png" 
               alt="Bajaj Finserv Logo" 
-              className="h-16 w-auto"
+              className="h-16 w-auto brightness-125 contrast-110"
             />
           </div>
           <h1 className="text-4xl font-bold text-foreground mb-4">
