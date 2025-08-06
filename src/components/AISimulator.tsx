@@ -43,7 +43,7 @@ export const AISimulator = () => {
         </div>
 
         {/* Main Card */}
-        <Card className="bg-gradient-card shadow-uplift border-0 transform hover:scale-[1.02] transition-all duration-300">
+        <Card className="bg-gradient-card shadow-uplift border-0">
           <CardHeader className="text-center pb-6">
             <CardTitle className="text-2xl font-bold text-foreground flex items-center justify-center gap-2">
               <Headphones className="h-6 w-6 text-primary" />
